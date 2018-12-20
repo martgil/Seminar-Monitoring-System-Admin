@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="EVENTDBModelStoreContainer" CdmEntityContainer="EVENTDBEntities">
+    <FunctionImportMapping FunctionImportName="GetEventStatus" FunctionName="EVENTDBModel.Store.GetEventStatus">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="EVENTDBModel.GetEventStatus_Result">
+          <ScalarProperty Name="event_name" ColumnName="event_name" />
+          <ScalarProperty Name="sponsor" ColumnName="sponsor" />
+          <ScalarProperty Name="event_location" ColumnName="event_location" />
+          <ScalarProperty Name="event_stime" ColumnName="event_stime" />
+          <ScalarProperty Name="event_date" ColumnName="event_date" />
+          <ScalarProperty Name="event_cost" ColumnName="event_cost" />
+          <ScalarProperty Name="event_registered" ColumnName="event_registered" />
+          <ScalarProperty Name="event_attended" ColumnName="event_attended" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+  </EntityContainerMapping>
+</Mapping>

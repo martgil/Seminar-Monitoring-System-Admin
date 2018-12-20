@@ -1,0 +1,96 @@
+C:\Users\Zanti\Documents\Visual Studio 2017\Projects\Capstone.QR\Capstone.QR\bin\Release\Capstone.QR.exe.config
+C:\Users\Zanti\Documents\Visual Studio 2017\Projects\Capstone.QR\Capstone.QR\bin\Release\Capstone.QR.exe
+C:\Users\Zanti\Documents\Visual Studio 2017\Projects\Capstone.QR\Capstone.QR\bin\Release\Capstone.QR.pdb
+C:\Users\Zanti\Documents\Visual Studio 2017\Projects\Capstone.QR\Capstone.QR\bin\Release\Bunifu_UI_v1.5.3.dll
+C:\Users\Zanti\Documents\Visual Studio 2017\Projects\Capstone.QR\Capstone.QR\obj\Release\Capstone.QR.csprojAssemblyReference.cache
+C:\Users\Zanti\Documents\Visual Studio 2017\Projects\Capstone.QR\Capstone.QR\obj\Release\Capstone.QR.login.resources
+C:\Users\Zanti\Documents\Visual Studio 2017\Projects\Capstone.QR\Capstone.QR\obj\Release\Capstone.QR.Properties.Resources.resources
+C:\Users\Zanti\Documents\Visual Studio 2017\Projects\Capstone.QR\Capstone.QR\obj\Release\Capstone.QR.csproj.GenerateResource.cache
+C:\Users\Zanti\Documents\Visual Studio 2017\Projects\Capstone.QR\Capstone.QR\obj\Release\Capstone.QR.csproj.CoreCompileInputs.cache
+C:\Users\Zanti\Documents\Visual Studio 2017\Projects\Capstone.QR\Capstone.QR\obj\Release\Capstone.QR.csproj.CopyComplete
+C:\Users\Zanti\Documents\Visual Studio 2017\Projects\Capstone.QR\Capstone.QR\obj\Release\Capstone.QR.exe
+C:\Users\Zanti\Documents\Visual Studio 2017\Projects\Capstone.QR\Capstone.QR\obj\Release\Capstone.QR.pdb
+C:\Users\Zanti\Documents\Visual Studio 2017\Projects\Capstone.QR\Capstone.QR\obj\Release\Capstone.QR.dashboard.resources
+C:\Users\Zanti\Documents\Visual Studio 2017\Projects\Capstone.QR\Capstone.QR\obj\Release\Capstone.QR.firstRun.resources
+C:\Users\Zanti\Documents\Visual Studio 2017\Projects\Capstone.QR\Capstone.QR\obj\Release\Capstone.QR.uAddEvent.resources
+C:\Users\Zanti\Documents\Visual Studio 2017\Projects\Capstone.QR\Capstone.QR\obj\Release\Capstone.QR.uAddPersonnel.resources
+C:\Users\Zanti\Documents\Visual Studio 2017\Projects\Capstone.QR\Capstone.QR\obj\Release\Capstone.QR.uDashboard.resources
+C:\Users\Zanti\Documents\Visual Studio 2017\Projects\Capstone.QR\Capstone.QR\obj\Release\Capstone.QR.uEventSum.resources
+C:\Users\Zanti\Documents\Visual Studio 2017\Projects\Capstone.QR\Capstone.QR\obj\Release\Capstone.QR.uUpdateEvent.resources
+C:\Users\Zanti\Documents\Visual Studio 2017\Projects\Capstone.QR\Capstone.QR\obj\Release\Capstone.QR.uUpdatePersonnel.resources
+C:\Users\windows\Documents\Visual Studio 2017\Projects\Capstone.QR.Updated\Capstone.QR\obj\Release\Capstone.QR.csprojAssemblyReference.cache
+C:\Users\windows\Documents\Visual Studio 2017\Projects\Capstone.QR.Updated\Capstone.QR\obj\Release\Capstone.QR.dashboard.resources
+C:\Users\windows\Documents\Visual Studio 2017\Projects\Capstone.QR.Updated\Capstone.QR\obj\Release\Capstone.QR.EventWinLoader.resources
+C:\Users\windows\Documents\Visual Studio 2017\Projects\Capstone.QR.Updated\Capstone.QR\obj\Release\Capstone.QR.Events.uDeleteEvent.resources
+C:\Users\windows\Documents\Visual Studio 2017\Projects\Capstone.QR.Updated\Capstone.QR\obj\Release\Capstone.QR.Events.uViewEvent.resources
+C:\Users\windows\Documents\Visual Studio 2017\Projects\Capstone.QR.Updated\Capstone.QR\obj\Release\Capstone.QR.AdminPanel.resources
+C:\Users\windows\Documents\Visual Studio 2017\Projects\Capstone.QR.Updated\Capstone.QR\obj\Release\Capstone.QR.firstRun.resources
+C:\Users\windows\Documents\Visual Studio 2017\Projects\Capstone.QR.Updated\Capstone.QR\obj\Release\Capstone.QR.FormChangePassword.resources
+C:\Users\windows\Documents\Visual Studio 2017\Projects\Capstone.QR.Updated\Capstone.QR\obj\Release\Capstone.QR.login.resources
+C:\Users\windows\Documents\Visual Studio 2017\Projects\Capstone.QR.Updated\Capstone.QR\obj\Release\Capstone.QR.Properties.Resources.resources
+C:\Users\windows\Documents\Visual Studio 2017\Projects\Capstone.QR.Updated\Capstone.QR\obj\Release\Capstone.QR.uAddEvent.resources
+C:\Users\windows\Documents\Visual Studio 2017\Projects\Capstone.QR.Updated\Capstone.QR\obj\Release\Capstone.QR.uAddPersonnel.resources
+C:\Users\windows\Documents\Visual Studio 2017\Projects\Capstone.QR.Updated\Capstone.QR\obj\Release\Capstone.QR.uDashboard.resources
+C:\Users\windows\Documents\Visual Studio 2017\Projects\Capstone.QR.Updated\Capstone.QR\obj\Release\Capstone.QR.uUpdateEvent.resources
+C:\Users\windows\Documents\Visual Studio 2017\Projects\Capstone.QR.Updated\Capstone.QR\obj\Release\Capstone.QR.uUpdatePersonnel.resources
+C:\Users\windows\Documents\Visual Studio 2017\Projects\Capstone.QR.Updated\Capstone.QR\obj\Release\Capstone.QR.csproj.GenerateResource.cache
+C:\Users\windows\Documents\Visual Studio 2017\Projects\Capstone.QR.Updated\Capstone.QR\obj\Release\Capstone.QR.csproj.CoreCompileInputs.cache
+C:\Users\windows\Documents\Visual Studio 2017\Projects\Capstone.QR.Updated\Capstone.QR\obj\Release\Capstone.QR.exe
+C:\Users\windows\Documents\Visual Studio 2017\Projects\Capstone.QR.Updated\Capstone.QR\obj\Release\Capstone.QR.pdb
+C:\Users\windows\Documents\Visual Studio 2017\Projects\Capstone.QR.Updated\Capstone.QR\bin\Release\Capstone.QR.exe.config
+C:\Users\windows\Documents\Visual Studio 2017\Projects\Capstone.QR.Updated\Capstone.QR\bin\Release\Capstone.QR.exe
+C:\Users\windows\Documents\Visual Studio 2017\Projects\Capstone.QR.Updated\Capstone.QR\bin\Release\Capstone.QR.pdb
+C:\Users\windows\Documents\Visual Studio 2017\Projects\Capstone.QR.Updated\Capstone.QR\bin\Release\Newtonsoft.Json.dll
+C:\Users\windows\Documents\Visual Studio 2017\Projects\Capstone.QR.Updated\Capstone.QR\bin\Release\Newtonsoft.Json.xml
+C:\Users\windows\Documents\Visual Studio 2017\Projects\Capstone.QR.Updated\Capstone.QR\obj\Release\Capstone.QR.csproj.CopyComplete
+C:\Users\Mart\Documents\CapstoneFinals\Capstone-09-21-2018\Capstone.QR.Updated\Capstone.QR\bin\Release\Capstone.QR.exe.config
+C:\Users\Mart\Documents\CapstoneFinals\Capstone-09-21-2018\Capstone.QR.Updated\Capstone.QR\bin\Release\Capstone.QR.exe
+C:\Users\Mart\Documents\CapstoneFinals\Capstone-09-21-2018\Capstone.QR.Updated\Capstone.QR\bin\Release\Capstone.QR.pdb
+C:\Users\Mart\Documents\CapstoneFinals\Capstone-09-21-2018\Capstone.QR.Updated\Capstone.QR\bin\Release\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Mart\Documents\CapstoneFinals\Capstone-09-21-2018\Capstone.QR.Updated\Capstone.QR\bin\Release\CrystalDecisions.ReportSource.dll
+C:\Users\Mart\Documents\CapstoneFinals\Capstone-09-21-2018\Capstone.QR.Updated\Capstone.QR\bin\Release\CrystalDecisions.Shared.dll
+C:\Users\Mart\Documents\CapstoneFinals\Capstone-09-21-2018\Capstone.QR.Updated\Capstone.QR\bin\Release\CrystalDecisions.Windows.Forms.dll
+C:\Users\Mart\Documents\CapstoneFinals\Capstone-09-21-2018\Capstone.QR.Updated\Capstone.QR\bin\Release\FlashControlV71.dll
+C:\Users\Mart\Documents\CapstoneFinals\Capstone-09-21-2018\Capstone.QR.Updated\Capstone.QR\bin\Release\Newtonsoft.Json.dll
+C:\Users\Mart\Documents\CapstoneFinals\Capstone-09-21-2018\Capstone.QR.Updated\Capstone.QR\bin\Release\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Mart\Documents\CapstoneFinals\Capstone-09-21-2018\Capstone.QR.Updated\Capstone.QR\bin\Release\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Mart\Documents\CapstoneFinals\Capstone-09-21-2018\Capstone.QR.Updated\Capstone.QR\bin\Release\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Mart\Documents\CapstoneFinals\Capstone-09-21-2018\Capstone.QR.Updated\Capstone.QR\bin\Release\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Mart\Documents\CapstoneFinals\Capstone-09-21-2018\Capstone.QR.Updated\Capstone.QR\bin\Release\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Mart\Documents\CapstoneFinals\Capstone-09-21-2018\Capstone.QR.Updated\Capstone.QR\bin\Release\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Mart\Documents\CapstoneFinals\Capstone-09-21-2018\Capstone.QR.Updated\Capstone.QR\bin\Release\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Mart\Documents\CapstoneFinals\Capstone-09-21-2018\Capstone.QR.Updated\Capstone.QR\bin\Release\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Mart\Documents\CapstoneFinals\Capstone-09-21-2018\Capstone.QR.Updated\Capstone.QR\bin\Release\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Mart\Documents\CapstoneFinals\Capstone-09-21-2018\Capstone.QR.Updated\Capstone.QR\bin\Release\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Mart\Documents\CapstoneFinals\Capstone-09-21-2018\Capstone.QR.Updated\Capstone.QR\bin\Release\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Mart\Documents\CapstoneFinals\Capstone-09-21-2018\Capstone.QR.Updated\Capstone.QR\bin\Release\ShockwaveFlashObjects.dll
+C:\Users\Mart\Documents\CapstoneFinals\Capstone-09-21-2018\Capstone.QR.Updated\Capstone.QR\bin\Release\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Mart\Documents\CapstoneFinals\Capstone-09-21-2018\Capstone.QR.Updated\Capstone.QR\bin\Release\stdole.dll
+C:\Users\Mart\Documents\CapstoneFinals\Capstone-09-21-2018\Capstone.QR.Updated\Capstone.QR\bin\Release\Newtonsoft.Json.xml
+C:\Users\Mart\Documents\CapstoneFinals\Capstone-09-21-2018\Capstone.QR.Updated\Capstone.QR\obj\Release\Capstone.QR.csprojAssemblyReference.cache
+C:\Users\Mart\Documents\CapstoneFinals\Capstone-09-21-2018\Capstone.QR.Updated\Capstone.QR\obj\Release\Capstone.QR.Attendee.AttendViewer.resources
+C:\Users\Mart\Documents\CapstoneFinals\Capstone-09-21-2018\Capstone.QR.Updated\Capstone.QR\obj\Release\Capstone.QR.dashboard.resources
+C:\Users\Mart\Documents\CapstoneFinals\Capstone-09-21-2018\Capstone.QR.Updated\Capstone.QR\obj\Release\Capstone.QR.Dashboard.uAdminProfile.resources
+C:\Users\Mart\Documents\CapstoneFinals\Capstone-09-21-2018\Capstone.QR.Updated\Capstone.QR\obj\Release\Capstone.QR.EventWinLoader.resources
+C:\Users\Mart\Documents\CapstoneFinals\Capstone-09-21-2018\Capstone.QR.Updated\Capstone.QR\obj\Release\Capstone.QR.Events.uDeleteEvent.resources
+C:\Users\Mart\Documents\CapstoneFinals\Capstone-09-21-2018\Capstone.QR.Updated\Capstone.QR\obj\Release\Capstone.QR.Events.uViewEvent.resources
+C:\Users\Mart\Documents\CapstoneFinals\Capstone-09-21-2018\Capstone.QR.Updated\Capstone.QR\obj\Release\Capstone.QR.AdminPanel.resources
+C:\Users\Mart\Documents\CapstoneFinals\Capstone-09-21-2018\Capstone.QR.Updated\Capstone.QR\obj\Release\Capstone.QR.firstRun.resources
+C:\Users\Mart\Documents\CapstoneFinals\Capstone-09-21-2018\Capstone.QR.Updated\Capstone.QR\obj\Release\Capstone.QR.FormChangePassword.resources
+C:\Users\Mart\Documents\CapstoneFinals\Capstone-09-21-2018\Capstone.QR.Updated\Capstone.QR\obj\Release\Capstone.QR.login.resources
+C:\Users\Mart\Documents\CapstoneFinals\Capstone-09-21-2018\Capstone.QR.Updated\Capstone.QR\obj\Release\Capstone.QR.Personnel.PersonnelWinLoader.resources
+C:\Users\Mart\Documents\CapstoneFinals\Capstone-09-21-2018\Capstone.QR.Updated\Capstone.QR\obj\Release\Capstone.QR.Personnel.uRemovePerson.resources
+C:\Users\Mart\Documents\CapstoneFinals\Capstone-09-21-2018\Capstone.QR.Updated\Capstone.QR\obj\Release\Capstone.QR.Personnel.uViewPersonnel.resources
+C:\Users\Mart\Documents\CapstoneFinals\Capstone-09-21-2018\Capstone.QR.Updated\Capstone.QR\obj\Release\Capstone.QR.Properties.Resources.resources
+C:\Users\Mart\Documents\CapstoneFinals\Capstone-09-21-2018\Capstone.QR.Updated\Capstone.QR\obj\Release\Capstone.QR.uAddEvent.resources
+C:\Users\Mart\Documents\CapstoneFinals\Capstone-09-21-2018\Capstone.QR.Updated\Capstone.QR\obj\Release\Capstone.QR.uAddPersonnel.resources
+C:\Users\Mart\Documents\CapstoneFinals\Capstone-09-21-2018\Capstone.QR.Updated\Capstone.QR\obj\Release\Capstone.QR.uDashboard.resources
+C:\Users\Mart\Documents\CapstoneFinals\Capstone-09-21-2018\Capstone.QR.Updated\Capstone.QR\obj\Release\Capstone.QR.uUpdateEvent.resources
+C:\Users\Mart\Documents\CapstoneFinals\Capstone-09-21-2018\Capstone.QR.Updated\Capstone.QR\obj\Release\Capstone.QR.uUpdatePersonnel.resources
+C:\Users\Mart\Documents\CapstoneFinals\Capstone-09-21-2018\Capstone.QR.Updated\Capstone.QR\obj\Release\Capstone.QR.ReportViewer.resources
+C:\Users\Mart\Documents\CapstoneFinals\Capstone-09-21-2018\Capstone.QR.Updated\Capstone.QR\obj\Release\Capstone.QR.UserChecker.resources
+C:\Users\Mart\Documents\CapstoneFinals\Capstone-09-21-2018\Capstone.QR.Updated\Capstone.QR\obj\Release\Capstone.QR.csproj.GenerateResource.cache
+C:\Users\Mart\Documents\CapstoneFinals\Capstone-09-21-2018\Capstone.QR.Updated\Capstone.QR\obj\Release\Capstone.QR.csproj.CoreCompileInputs.cache
+C:\Users\Mart\Documents\CapstoneFinals\Capstone-09-21-2018\Capstone.QR.Updated\Capstone.QR\obj\Release\Capstone.QR.csproj.CopyComplete
+C:\Users\Mart\Documents\CapstoneFinals\Capstone-09-21-2018\Capstone.QR.Updated\Capstone.QR\obj\Release\Capstone.QR.exe
+C:\Users\Mart\Documents\CapstoneFinals\Capstone-09-21-2018\Capstone.QR.Updated\Capstone.QR\obj\Release\Capstone.QR.pdb
